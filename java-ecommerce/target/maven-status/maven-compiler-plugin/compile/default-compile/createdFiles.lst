@@ -1,0 +1,5 @@
+com\smo\ecommerce\dao\ProductRepository.class
+com\smo\ecommerce\entity\ProductCategory.class
+com\smo\ecommerce\SpringBootEcommerceApplication.class
+com\smo\ecommerce\dao\ProductCategoryRepository.class
+com\smo\ecommerce\entity\Product.class
